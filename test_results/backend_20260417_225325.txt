@@ -1,0 +1,27 @@
+
+=================================== ERRORS ====================================
+______________ ERROR collecting backend/tests/test_pdf_export.py ______________
+ImportError while importing test module 'c:\htdocs\ai-automation\resume-talior\backend\tests\test_pdf_export.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+C:\Python313\Lib\importlib\__init__.py:88: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+backend\tests\test_pdf_export.py:2: in <module>
+    from backend import pdf_exporter
+E   ModuleNotFoundError: No module named 'backend'
+___________ ERROR collecting backend/tests/test_tailor_endpoint.py ____________
+ImportError while importing test module 'c:\htdocs\ai-automation\resume-talior\backend\tests\test_tailor_endpoint.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+C:\Python313\Lib\importlib\__init__.py:88: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+backend\tests\test_tailor_endpoint.py:3: in <module>
+    from backend.main import app
+E   ModuleNotFoundError: No module named 'backend'
+=========================== short test summary info ===========================
+ERROR backend/tests/test_pdf_export.py
+ERROR backend/tests/test_tailor_endpoint.py
+!!!!!!!!!!!!!!!!!!! Interrupted: 2 errors during collection !!!!!!!!!!!!!!!!!!!
+2 errors in 0.86s

@@ -1,3 +1,11 @@
+# Silent Mode
+When I say “Follow dev.md”, do not explain anything.  
+Do not output reasoning.  
+Do not describe steps.  
+Only generate or modify files exactly as instructed.  
+If a file must be created or updated, output ONLY the file content.  
+No extra messages.
+
 # dev.md — AI‑Native Full Automation Development Workflow  
 React UI + FastAPI + Auto‑Tests + Auto‑Commit + Auto‑Review
 
