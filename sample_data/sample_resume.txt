@@ -1,0 +1,113 @@
+Jonathan Wong
+✉ jonathan78wong@gmail.com +1 604-735-5947 Vancouver, BC • Permanent Resident
+linkedin.com/in/jonanata • github.com/jonanata • credly.com/users/yat-sing-wong • blog.jonanata.com
+Highlights of Qualifications
+ 20+ years as Project Manager & Full-stack Developer, specializing in architecture, UX, and team leadership.
+ Led 20+ startup staff teams and worked in 200+ staff MNC IT departments.
+ Built startups' products & teams from scratch, raising funds from pre-seed to Series B (e.g., Notey, Boxful).
+ Worked with venture builders like Flatiron to drive startup growth. Prepared pitch decks & venture reports.
+ Skilled in business decision-making using lean canvas and problem interviews.
+ Implemented cross-promotional strategies with third-party partners to amplify reach with marketing team.
+ Integrated customer service feedback and collaborated with customer success to create a release roadmap.
+ Developed Gen AI RAG apps to elevate and expand company's AI product offerings.
+ Enforce IT policies & solutions and collaborate across departments for seamless operations and support.
+ Manage IT budget, ensuring cost-effective resource allocation and financial goal adherence.
+ Fluent in English, Cantonese and Mandarin.
+Technical Skills
+ Java, Scala, Spring, EJB, PHP, Python, NumPy, Pandas, Pyramid, Flask, Sqlalchemy, GoLang, Node.js, React.js,
+Angular, Vue, ELK, OpenSearch, Solr, MySql, PgSql, Oracle, MongoDB, Kafka, Redis, Selenium, WordPress
+ SOA, Message Bus, MVC, IoC, API, Microservice, EIA, DeFi, Blockchain, Web 3.0
+ Devops, AWS, Azure, Google Cloud, EKS, GKE, Cloudflare, CloudFront, S3, Docker, Git, Bitbucket, Jira
+ Gen AI, CI/CD, LangChain, OpenAI, GPT, Machine Learning, Keras, Tensorflow, SciPy, ScikitLearn, PyTorch
+Professional Experience
+Founder & Solution Architect Feb 2017– Present
+Jonanata Consultants Limited, Hong Kong SAR
+ Provide IT technical & UX advice, project scoping, Devops, development, and post-delivery supports.
+ Deliver MVP to Startups or revamp company existing applications.
+ Migrate www.suppaw.com PHP apps from Kinsta to AWS, deliver MVP and public launch within 2 months.
+ Build Gen AI RAG app (Python + Node.js) for www.woztell.com using Langchain, Selenium, OpenSearch,
+MongoDB, Azure OpenAI and ChatGPT 4o to enhance their AI products offerings.
+ Migrate an AWS ESK based app to GCP Google Kubernetes Engine (GEK) infrastructure.
+ Provide DevOps, like CI/CD pipelines to integrate GitHub with Docker deployments on AWS EC2.
+ Utilize strong customer service and interpersonal skills to increase customer satisfaction rate by 80%.
+Consultant Feb 2021 – Aug 2025
+Wineworld Xplorer Limited, Hong Kong SAR
+ Deliver wine SaaS trading platform www.wwxplorer.com leveraging Python Pyramid and Sqlalchemy.
+ Successfully revamp www.wwxplorer.com to reduce 50% downtime and improve 20% response time.
+ Build blog with custom WordPress theme and plugin using PHP and Vue.js to improve UX and features.
+ Plan and evaluate content strategy, including Meta descriptions, keywords, readability, and E-E-A-T, using
+Google Search Console and Analytics to boost click-through and conversion rates.
+ Develop crawlers and integrated 3rd party data API, like Liv-ex. Analytics of 10s of GB big data.
+Cloud Architect May 2020 – Dec 2020
+Maphive Technology Limited, Hong Kong SAR
+ Led 20+ developers in Hong Kong and China by Scrum.
+ Revamped an AWS JEE and PgSql app to Azure migration. Reduced timeline from 6 months to 10 weeks.
+ Designed service delivery in global infrastructure. 50% response time improvement.
+ In-charged configuration of cloud monitoring on overall application health and performance.
+ Led and coached cloud governance to ensure proper controls, monitoring, and infrastructure management
+in the cloud environment. Reduce 20% application downtime.
+Technical Director Mar 2017 – Dec 2019
+Flatiron Venture Builders, Hong Kong SAR
+ Led a team of 3 developers by Scrum to deliver MVP for Startups.
+ Delivered a SaaS crowdfunding platform tailored for NGOs using PHP Laravel and AWS RDS (MySQL).
+ Built a JEE FinTech app enables DLC Asia to capture all trades booked and compose a multi-leg trade.
+ Prepared technical documents, pitch decks and venture reports for client’s Startup fundraising.
+Head of Web Development Oct 2014 – Oct 2016
+Boxful Ltd., Hong Kong SAR
+ Led a team of 3 developers by Scrum to build www.boxful.com, a PHP/MySql SaaS on-demand storage app.
+ Delivered MVP and AWS infrastructure from scratch within 1.5 month to get pre-seek funding.
+ Provided a scalable architecture successfully supported the objectives of Series A and B funding rounds.
+ Built price, billing and logistics rule systems. Integration with PayPal, Braintree & Strip.
+ Provided technical advice, defined project scope & schedule, AWS DevOps & post-delivery support.
+Consultant Dec 2012 – Jul 2014
+Tellus Trade Limited, Hong Kong SAR
+ Led a Startup 3 developers’ team.
+ Integrated Magento websites with Tradera API and payment gateways (Payson, Klarna).
+ Performance tuning of the Magento by Varnish & Memcached. 80% response time improvement.
+Software Architect Apr 2011 – Oct 2012
+Notey Ltd., Hong Kong SAR
+ Led a Startup 7 developers’ team. Built www.notey.com, a Scala based app, from scratch.
+ Delivered MVP within 2 months to get pre-seek funding. Set up AWS infrastructure from scratch.
+ Integrated 3rd party’s services (e.g. Twitter, Facebook, Google, Apple Enterprise Database).
+ Built search engine based on NLP/geographical methodologies like pragmatic, semantic and categorization.
+ Handled big data through batch system, MySQL and NoSQL (e.g. full-text faceted search with tens of GB
+data within tens of million seconds by Solr)
+ Delivered API for mobile application integrations.
+Technical Analyst May 2007– Mar 2010
+Orient Overseas Container Line Limited, Hong Kong SAR
+ Worked in a +200 developers’ MNC IT team. Member of HQ framework team.
+ Provided technical advice and framework for logistics/EDI systems for China and overseas teams.
+ Improved system performance by SQL, JVM & threading tuning, app re-allocation, and CDN (Akamai)
+through stress tests (Load runner) and profiling (Optimize It, Jprofiler).
+ Reduced 50% memory usage of an EDI batch processing system.
+Analyst Programmer Nov 2006 – Apr 2007
+AsiaHub Ltd., Hong Kong SAR
+ Worked in a +100 developers’ MNC IT team, and enhanced J2EE app, www.cxholidays.com, for CX Holiday
+ Gathered and followed user requirements, documentation, UAT and performed stress tests.
+ Improved 80% response time for the flight search function.
+Education
+ Bachelor of Arts Degree (Honours), Language Information Science Jun 2003
+City University of Hong Kong, Hong Kong, Hong Kong SAR
+Other Qualifications & Certifications
+Cloud Platform, OS
+ Microsoft Certified: Azure Data Engineer Associate (DP-203) 2022
+ Microsoft Certified: Azure Fundamentals (AZ-900) 2021
+ AWS Certified Cloud Practitioner (CLF-C01) 2021
+ Linux Professional Institute Level I (LPIC I 101-02) 2006
+AI
+ Google Cloud Certified: Generative AI Leader (GAIN‑C01) 2026
+ AWS Certified AI Practitioner (AIF‑C01) 2025
+ IBM Generative AI Engineering 2025
+ IBM AI Engineering Professional Certificate (V3) 2025
+ IBM Deep Learning with PyTorch, Keras and Tensorflow Professional Certificate 2025
+ Large Language Model Operations (LLMOps) Specialization Certificate 2025
+ Microsoft Certified: Azure AI Fundamentals (AI-900) 2021
+Blockchain
+ Blockchain Specialization 2022
+Programming (Java/ Python)
+ PCAP – Certified Associate in Python Programming (PCAP-31-03) 2021
+ Sun Certified Web Component Developer for the J2EE 1.4 (SCWCD) 2005
+ Sun Certified Programmer for the Java 2 Platform 1.4 (SCJP) 2005
+Startup, Business Management
+ IBM IT Scrum Master Professional Certificate 2025
+ Empowered Startups - Global Startup Accelerator Entrepreneur 2021

@@ -1,0 +1,66 @@
+Full job description
+Senior Software Engineer (Remote)
+
+This role is for a Senior Software Engineer for our Web Application software development team.
+
+We primarily use PHP, TypeScript, and C#.NET for our front end and integrations to ERPs. In addition to our web-based application using the React / GraphQL framework, a critical component of our system is a desktop utility that synchronizes Windows-based customer data to our platform.
+
+We have extended our reach by developing an in-house React Native (iOS/Android) application to enable our customers mobile access to their data. Both our development and production environments are hosted on AWS, and we embrace the DevOps mindset, continually moving towards true CI/CD.
+
+Responsibilities
+
+● Collaborating on requirements specification in the form of user stories
+● Designing, implementing, and testing technical solutions that meet the requirements
+● Developing well-structured, maintainable code for web, mobile, and APIs
+● Pairing with other developers on feature development, code reviews and bug fixing
+● Collaborating with the team on evaluation and implementation of frameworks and tools to help with development and quality
+● Working on an agile/scrum team to continuously improve process and behaviours through regular reflection and adaptation
+
+Required Skills & Experience
+
+● Extensive development experience using the React framework, using TypeScript and CSS in complex web applications
+● Expertise with implementing design systems (we use MaterialUI)
+● Expertise in building reusable components
+● Ability to design and build frameworks to achieve strategic or company business needs
+● Identify and implement design, code, and best practices to accelerate team velocity and improve quality
+● Ability to collaborate and develop architectural solutions with senior architects / engineers
+● Experience working with:
+○ large, integrated systems with many external dependencies
+○ web services and APIs (REST or GraphQL)
+○ PHP, Doctrine
+● Solid knowledge of software design patterns
+● Working knowledge of Linux, Git, Docker
+● Working knowledge of Cloud Infrastructure such as Amazon Web Services (AWS)
+● Solid English verbal and written communication skills, with the ability to present on technical topics
+● A minimum of 5+ years working in web application development
+
+Compensation & Schedule
+
+Pay Rate: $60 – $80 per hour
+Hours: 8:30 AM – 5:00 PM PST, Monday to Friday
+Contract Duration: 12 Months
+Engagement Options:
+Payroll
+Independent Contractor
+Corporation to Corporation (C2C)
+Location: Remote (Canada)
+How to Apply
+
+Send your resume to: jobs@safinaconsulting.ca
+Or WhatsApp: Text “Senior Software Engineer” to +1 (647) 331-9936
+
+Job Type: Full-time
+
+Pay: $60.00-$80.00 per hour
+
+Expected hours: 37.50 – 44 per week
+
+Application question(s):
+
+How many years of professional experience do you have working with React.js?
+How many years of professional experience do you have working with PHP?
+Do you have experience developing or maintaining CI/CD pipelines (e.g., GitHub Actions, Jenkins, or Azure Pipelines)?
+How comfortable are you working in a Linux or macOS command-line environment?
+Whi React frameworks have you worked with?
+Which PHP frameworks have you worked with ?
+Work Location: Remote
